@@ -1,0 +1,19 @@
+{
+  "color_scheme": "Packages/Monokai Extended/Monokai Extended Bright.tmTheme",
+  "font_size": 10,
+  "ignored_packages":
+  [
+    "Haxe",
+    "Git",
+    "Alignment",
+    "CoffeeScript",
+    "Dark Pastel Color Scheme",
+    "Vintage",
+    "AsciiDoc",
+    "Gist"
+  ],
+  "overlay_scroll_bars": "enabled",
+  "tab_size": 2,
+  "theme": "Soda Dark.sublime-theme",
+  "translate_tabs_to_spaces": true
+}
